@@ -14,7 +14,7 @@ import csv
 import json
 
 
-def write_to_csv(results: list, filename: str):
+def write_to_csv(results, filename):
     """Write an iterable of `CloseApproach` objects to a CSV file.
 
     The precise output specification is in `README.md`. Roughly, each output row
