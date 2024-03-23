@@ -6,7 +6,7 @@ In this project, I'll use Python - and the skills we've developed throughout thi
 
 ## Overview
 
-At a high-level, you'll create Python code that implements a command-line tool to inspect and query a dataset of NEOs and their close approaches to Earth.
+you'll create Python code that implements a command-line tool to inspect and query a dataset of NEOs and their close approaches to Earth.
 
 Concretely, you'll have to read data from both a CSV file and a JSON file, convert that data into structured Python objects, perform filtering operations on the data, limit the size of the result set, and write the results to a file in a structured format, such as CSV or JSON.
 
